@@ -1,6 +1,6 @@
 {
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "vscode.typescript-language-features",
-    "editor.cursorBlinking": "smooth",
-    "editor.cursorSmoothCaretAnimation": true
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "jinxdash.prettier-rust",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": true
 }
